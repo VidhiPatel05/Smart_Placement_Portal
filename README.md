@@ -1,3 +1,6 @@
+Presentation Deck: [presentation deck
+](https://drive.google.com/file/d/1wGZXrBmibYYPZK8i1oNY-6fVx_kmENef/view?usp=sharing)
+Demo Video: [Demo video](https://drive.google.com/file/d/1CcsO2gDYDFVmusvgDklmpRzd8nQOzv_l/view?usp=sharing)
 # 🎓 Smart Placement Portal
 
 ## 🚀 Overview
